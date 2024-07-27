@@ -1,0 +1,9 @@
+<!-- for encoding caracteres  -->
+    <meta charset="UTF-8">
+    <!-- to make refresh for web page in giving interval time (seconds)  -->
+   <meta http-equiv="refresh" content="5">
+    
+    <!-- to add keywords  -->
+    <meta name="keywords" content="keyword1,keyword2">
+   <!-- to add description -->
+    <meta name="description" content="This Is Description For My First Page">
